@@ -41,7 +41,7 @@ body {
   display: flex;
 }
 
-h1 {
+.header h1 {
   margin-left: 20px;
 }
 
